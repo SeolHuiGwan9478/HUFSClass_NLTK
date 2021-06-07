@@ -1,0 +1,11 @@
+(S
+  (NP (QUANT Many) (NOM (NOUN people)))
+  (VP
+    (V gathered)
+    (VPto
+      (INF to)
+      (VP
+        (V see)
+        (NP (DET the) (NOM (ADJ famous) (NOM (NOUN concert)))))))
+  (PUNC .))
+

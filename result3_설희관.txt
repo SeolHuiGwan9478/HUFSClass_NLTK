@@ -1,0 +1,10 @@
+(S
+  (NP (DET The) (NOM (ADJ shop) (NOM (NOUN manager))))
+  (VP
+    (V wrote)
+    (NP
+      (DET an)
+      (NOM (NOUN email))
+      (PP (PREP to) (NP (DET the) (NOM (NOUN customer))))))
+  (PUNC .))
+

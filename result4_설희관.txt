@@ -1,0 +1,13 @@
+(S
+  (S
+    (WH-NP (WH When) (NP (PRON he)))
+    (VP (V finished) (NP (NOUN cooking)))
+    (PUNC ,))
+  (S
+    (NP
+      (NP (DET his) (NOM (NOUN wife)))
+      (CONJ and)
+      (NP (DET her) (NOM (NOUN sister))))
+    (VP (V returned) (NP (NOUN home)))
+    (PUNC .)))
+

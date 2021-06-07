@@ -1,0 +1,14 @@
+(S
+  (WH-NP (WH Which) (NP (NOUN option)))
+  (AUX do)
+  (NP (PRON you))
+  (VP (V want) (VPto (INF to) (V select)))
+  (PUNC ?))
+
+(S
+  (WH-NP (WH Which) (NP (NOUN option)))
+  (AUX do)
+  (NP (PRON you))
+  (VP (V want) (VPto (INF to) (VP (V select))))
+  (PUNC ?))
+

@@ -1,0 +1,7 @@
+(S
+  (S
+    (NP (DET The) (NOM (ADJ outdoor) (NOM (NOUN concert))))
+    (VP (AUX will) (AUX be) (V canceled)))
+  (CONJ if)
+  (S (NP (PRON it)) (VP (V rains)) (PUNC .)))
+

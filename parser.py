@@ -3,7 +3,7 @@
 ################################################################
 # (1) Type Your Sentence
 
-sent = "I saw the man with a telescope"
+sent = "Which option do you want to select?"
 
 # (2) Make your CFG file for parsing your sentence.
 
@@ -12,12 +12,12 @@ sent = "I saw the man with a telescope"
 ################################################################
 
 import nltk
-grammar = nltk.data.load("file:.\\grammar.cfg")
+grammar = nltk.data.load("file:.\\grammar_설희관.cfg")
 parser = nltk.ChartParser(grammar)
 tokens = nltk.tokenize.word_tokenize(sent)
 trees = parser.parse(tokens)
 
-with open(".\\result.txt", "w") as f1:
+with open(".\\result5_설희관.txt", "w") as f1:
     for tree in trees:
         print(tree)
         f1.write(str(tree)+"\n\n")
